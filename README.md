@@ -8,8 +8,8 @@ The script depends on the [numpy](https://www.numpy.org/) module.
 Unfortunately, this script does not document which version of Python and which version of numpy to be used to run it.
 Conda is an environment management system that addressed this issue (and brings plenty of other nice features!)
 
-# print_pi.bat
-**print_pi.bat** will run **print_pi.py** after setting up the environment using Conda.
+# run.bat
+**run.bat** will run **print_pi.py** after setting up the environment using Conda.
 It will:
 1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) if necessary
 1. Create the environment from **setup/environment.yml** if necessary
