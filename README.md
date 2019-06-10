@@ -5,8 +5,8 @@ This repository is a template for a [Python](https://www.python.org/) project ru
 # print_pi.py
 This script will simply print the number &pi; in the console window.  
 The script depends on the [numpy](https://www.numpy.org/) module.  
-Unfortunately, this script does not document which version of Python and which version of numpy to be used to run it.
-Conda is an environment management system that addressed this issue (and brings plenty of other nice features!)
+Unfortunately, this script does not document which version of Python and which version of numpy to be used to run it.  
+Conda is an environment management system that addresses this issue (amongst other nice features!)
 
 # run.bat
 **run.bat** will run **print_pi.py** after setting up the environment using Conda.
